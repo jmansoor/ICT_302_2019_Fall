@@ -22,8 +22,8 @@ From Monday to Friday, I work to respond to all emails (and Slack messages, GitH
 
 In my office or on Zoom:
 
-- Monday, 1pm to 3pm
-- Tuesday, 1pm to 3pm
+- **Monday, 1pm to 3pm**
+- **Tuesday, 1pm to 3pm**
 - by appointment
 
 # Student Support
@@ -96,6 +96,12 @@ You are not required to buy a textbook for this class; however, much of my lectu
 Over the course of the semester, you will be learning about a number of free resources that you can use to learn about content management systems.
 
 Furthermore, you will work together as a class to use what you learn from those resources (and other course activities) to write a content management systems guidebook that you can use as a reminder and reference after the semester has ended.
+
+##Softwares used in course
+- Atom
+- GitHub
+- GitHub Desktop
+
 
 ## Course Policies
 
@@ -243,7 +249,7 @@ Most of the technical and conceptual skills that you pick up will be demonstrate
 
 #### Learning Journal Setup (2 points; due 1 September 2019)
 
-Create your own repository in GitHub, set it to private, and add me (username: [greenhas](https://github.com/greenhas)) as a collaborator. Create a Markdown file in your repository that is titled `learning_journal` and that includes an introduction and your first two entries, you will then link to the file as a Canvas submission. You may organize your learning journal however you like, but you must use at least two different kinds of Markdown element. You will receive 1 point for creating the repository, setting it to private, and adding me as a collaborator. You will receive another point for writing an introduction to your learning journal and using at least two different kinds of Markdown elements in your journal.
+Create your own repository in GitHub, set it to private, and add me (username: [greenhas](https://github.com/greenhas)) as a collaborator. Create a Markdown file in your repository that is titled **`learning_journal`** and that includes an introduction and your first two entries, you will then link to the file as a Canvas submission. You may organize your learning journal however you like, but you must use at least two different kinds of Markdown element. You will receive 1 point for creating the repository, setting it to private, and adding me as a collaborator. You will receive another point for writing an introduction to your learning journal and using at least two different kinds of Markdown elements in your journal.
 
 #### Introductory Web Page (2 points; due 8 September 2019)
 
