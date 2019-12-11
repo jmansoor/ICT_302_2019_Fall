@@ -1,5 +1,7 @@
 ## I can identify and define key concepts in (web) content management.
 
+In CMS class we went over several terms and definitions and applied them in our activites such as e-commerce, workflow, sponsered content, and patreons here are some examples:
+
 In Dr. Greenhalghs's lecture and activity he talked about e-commerce which is buying or selling products online and how people a make money out of content such as a Sponsored content who could be blogger or a social media influencer who is paid by a company to review a product someone from endgagdet which is a blogging site could be reviewing an Iphone and they could be sponsered by Apple or a patreon who uses things like donations or crowdfunding for sites like indigogo.
 
 
@@ -19,19 +21,27 @@ During the CMS guidebook work day becasue site designers and developers have sim
 
 
 ## I can identify and employ technologies related to content management.
-
-In differenr
+#In the CMS class we had make use of many CMS softwares for this among them were WordPress, Hugo, Click Up, slack to communicate with different groups, and GitHub to put our repositories for our learning journals Click Up for the administrators to assign tasks developers and editors and we could use them too, and  here are some examples where we used   
 
 * In the CMS guidebook we used WordPress to create the CMS guidebook so we had to make use of components such as Plugins which are extensions to a CMS, templates which are a mixture of presentational markup (usually HTML) and other templating code used to prepare content objects for delivery, etc. such as when the editors have the content written in a document it won't come out the same way it does on the document it needs a combination of markdown, html, css, and plugins to make to look like how it is in the document for such as need the code for indent and center the texts. 
 
-* In one the activities we tinkered around with Hugo which is another CMS used through GitHub we used the GitHub repository to change the background color of the Hugo site, modified codes the repository folder.  In hugo there are files that have the layout, files that have the content, and files that have tags and posts for blogs.
+* In one the activities we tinkered around with Hugo which is another CMS used through GitHub we used the GitHub repository to change the background color of the Hugo site, modified codes the repository folder.  In hugo there are files that have the layout, files that have the content, and files that have tags and posts for blogs and We used Github to contain our learning journals.
 
 
 ## I can find and use resources for self-directed learning
 
+#There were times where we had to work by ourselves without Dr. Greenhgh’s guidance and learned some stuff that Dr.Greenhalgh did not teach us.
+
+* When Dr. Greenhalgh gave us a comparison proof of concept assignment we had to use another cms besides WordPress or Hugo and I used Wix, for example when tinkering around around with Wix I found out Wix has text editor but it in a beta stage, Wix also has an app market rather than a plugin, ￼I even discovered that Wix has a feature where you can optimize your site for mobile viewing.
+
+* During the time when we developers were working on the guidebook Dr. Greenhalgh didn’t give us much guidance so during those times tinkered around with different pdf plugins I figured out how to embed your pdf onto your site by using the href code and that whiles plugins are useful there are times when html can work better where plugin doesn’t such as exporting pdf.
+
+
 
 
 ## I can describe and compare content management systems.
+
+We used a few CMS softwares in class, some of them key features the other didn't and some of them had smae feaures but maybe but maybe renamed differently here are some examples below.
 
 *In the CMS comparison proof of concepts, we had to along with WordPress and Hugo had to choose another CMS platform, so I chose Wix talked about similarities and differences they had such they all let us aggregate content by tags and categories and I wrote in my proof of concept that Wordpress and Wix are better for e-commerce since Wordpress makes use of plugins and Wix lets use Wix App Market which could be good for e-commerce environment and Hugo is better for starting a small business.
 
