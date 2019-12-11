@@ -9,11 +9,9 @@ Throughout the semester, the following “I can” statements have served as gui
 
 ## I can identify and define key concepts in (web) content management.
 
-> Take a few minutes on what it means to identify and define key concepts in (web) content management and why this course objective is important. Summarize your thoughts below:
+* In Dr. Greenhalgh’s lecture he talked about channel for example WordPress being a distribution outlet for editorial process and human consumption
+* In the CMS guidebook there is a workflow which is a framework to move content trough in this CMS guidebook the editors worked on the CMS guidebook through an editorial process then the develops received the content to optimize it for presentation and the administrators are responsible for managing the settings, users, permissions, and other configurable functionality of a CMS workflow.
 
-> Consider specific moments (such as interactions with Dr. Greenhalgh or your classmates) or activities (such as assessments you submitted or contribution you made to the CMS Guidebook) during the semester that would give some insight into your ability to identify and define key concepts in (web) content management. In the space below, identify at least two moments or activities and (for each) describe what they say about your ability to meet this course objective. Please be as specific as possible (such as quoting exact text from your learning journal, identifying an edit to the CMS Guidebook in WordPress, or quoting from a particular conversation in Slack).
-
-> Based on your comments above, rate yourself on this ability on a scale of 0-8, and summarize why you gave yourself that number.
 
 ## I can manage content using established workflows.
 
