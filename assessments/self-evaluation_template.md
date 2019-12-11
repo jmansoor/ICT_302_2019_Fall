@@ -23,11 +23,10 @@ Throughout the semester, the following “I can” statements have served as gui
 
 ## I can identify and employ technologies related to content management.
 
-> Take a few minutes on what it means to identify and employ technologies related to content management and why this course objective is important. Summarize your thoughts below:
+* In the CMS guidebook we used WordPress to create the CMS guidebook so we had to make use of components such as Plugins which are extensions to a CMS, templates which are a mixture of presentational markup (usually HTML) and other templating code used to prepare content objects for delivery, etc. 
 
-> Consider specific moments (such as interactions with Dr. Greenhalgh or your classmates) or activities (such as assessments you submitted or contribution you made to the CMS Guidebook) during the semester that would give some insight into your ability to identify and employ technologies related to content management. In the space below, identify at least two moments or activities and (for each) describe what they say about your ability to meet this course objective. Please be as specific as possible (such as quoting exact text from your learning journal, identifying an edit to the CMS Guidebook in WordPress, or quoting from a particular conversation in Slack).
+* In one the activities we tinkered around with Hugo which is another CMS used through GitHub we used the GitHub repository to change the background color of the Hugo site, modified codes the repository folder.
 
-> Based on your comments above, rate yourself on this ability on a scale of 0-8, and summarize why you gave yourself that number.
 
 ## I can find and use resources for self-directed learning
 
@@ -39,11 +38,10 @@ Throughout the semester, the following “I can” statements have served as gui
 
 ## I can describe and compare content management systems.
 
-> Take a few minutes on what it means to describe and compare content management systems and why this course objective is important. Summarize your thoughts below:
+*In the CMS comparison proof of concepts, we had to along with WordPress and Hugo had to choose another CMS platform, so I chose Wix talked about similarities and differences they had such they all let us aggregate content by tags and categories.
 
-> Consider specific moments (such as interactions with Dr. Greenhalgh or your classmates) or activities (such as assessments you submitted or contribution you made to the CMS Guidebook) during the semester that would give some insight into your ability to describe and compare content management systems. In the space below, identify at least two moments or activities and (for each) describe what they say about your ability to meet this course objective. Please be as specific as possible (such as quoting exact text from your learning journal, identifying an edit to the CMS Guidebook in WordPress, or quoting from a particular conversation in Slack).
+*In a class activity Dr. Greenhalgh assigned us a CMS platform through google slide and we had to do a little research to find information about theirs uses, features, and other relevant information and talked about in front of the class I had Megento which is a e-commerce platform.
 
-> Based on your comments above, rate yourself on this ability on a scale of 0-8, and summarize why you gave yourself that number.
 
 # Final Grade
 
