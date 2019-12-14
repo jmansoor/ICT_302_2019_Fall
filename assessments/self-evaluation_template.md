@@ -54,4 +54,4 @@ some examples I saw in my CMS class was:
 
 # Final Grade
 
-40, I think this number reflects my performance in class becuase it shows that I am doing the work and understand the key concepts in CMS, compare CMS's, make use of CMS, know hwo to use my self learning skills for CMS, and work in a workflow.
+40, I think this number reflects my performance in class becuase it shows that I am doing the work and understand the key concepts in CMS, compare CMS's, make use of CMS, know how to use my self learning skills for CMS, and work in a workflow.
