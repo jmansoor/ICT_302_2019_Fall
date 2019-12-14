@@ -1,6 +1,6 @@
 ## I can identify and define key concepts in (web) content management.
 
-# In CMS class we went over several terms and definitions and applied them in our activites such as e-commerce, workflow, sponsered content, and patreons here are some examples:
+# In our CMS class we went over several terms and definitions and applied them in our activites such as e-commerce, workflow, sponsered content, and patreons here are some examples:
 
 * In Dr. Greenhalghs's lecture and activity he talked about e-commerce which is buying or selling products online and how people a make money out of content such as a Sponsored content who could be blogger or a social media influencer who is paid by a company to review a product someone from endgagdet which is a blogging site could be reviewing an Iphone and they could be sponsered by Apple or a patreon who uses things like donations or crowdfunding for sites like indigogo.
 
@@ -22,6 +22,7 @@ some examples I saw in my CMS class was:
 8, I gave myself this rating because I managed content using established workflows and I did that objective through my CMS guidebook project since in our workbook we are separated in our group based our roles, I made sure to do my part which was a developer role while also interacting with editors for the content.
 
 ## I can identify and employ technologies related to content management.
+
 # In the CMS class we had make use of many CMS softwares for this among them were WordPress, Hugo, Click Up, slack to communicate with different groups, and GitHub to put our repositories for our learning journals Click Up for the administrators to assign tasks developers and editors and we could use them too, and  here are some examples where we used   
 
 * In the CMS guidebook we used WordPress to create the CMS guidebook so I had to make use of components such as Plugins which are extensions to a CMS, templates which are a mixture of presentational markup (usually HTML) and other templating code used to prepare content objects for delivery, etc. such as when the editors have the content written in a document it won't come out the same way it does on the document it needs a combination of markdown, html, css, and plugins to make to look like how it is in the document for such as need the code for indent and center the texts. 
